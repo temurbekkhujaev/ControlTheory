@@ -10,7 +10,7 @@
 
 
 # INFO
-	1,2 tasks have simulink file format
-	3,4 tasks have matlab file format
+	2a,2b tasks have simulink file format
+	2c,2d tasks have matlab file format
 	5-6 combined for jupyter notebook .ipynb format
 	
